@@ -1,7 +1,3 @@
-Copy and paste this block in your terminal from `~/DynamicGBert`:
-
-````bash
-cat > README.md <<'EOF'
 # DynamicGBert
 
 Implementation of **ETH-GBERT**: dynamic feature fusion for blockchain fraud detection on Ethereum transaction graphs.
