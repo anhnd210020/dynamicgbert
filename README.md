@@ -219,9 +219,9 @@ After uploading, add the links here.
 
 Reported paper results:
 
-| Dataset             | F1 Score | Recall | Precision |
+| Dataset             | F1 Score (weighted) | Recall | Precision |
 | ------------------- | -------: | -----: | --------: |
-| Multigraph          |   94.71% | 94.71% |    94.71% |
+| Multigraph          |   94.46% | 93.73% |    95.20% |
 | Transaction Network |   86.16% | 87.82% |    84.56% |
 | B4E                 |   89.79% | 89.57% |    90.84% |
 
